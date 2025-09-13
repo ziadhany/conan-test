@@ -1,0 +1,7 @@
+- pkg:conan/libpq@17.5
+- pkg:conan/libpq@16.8
+- pkg:conan/libpq@15.12
+- pkg:conan/libpq@15.5
+- pkg:conan/libpq@15.4
+- pkg:conan/libpq@15.3
+- pkg:conan/libpq@14.9

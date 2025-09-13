@@ -1,0 +1,3 @@
+- pkg:conan/vir-simd@0.3.1
+- pkg:conan/vir-simd@0.3.0
+- pkg:conan/vir-simd@0.2.0

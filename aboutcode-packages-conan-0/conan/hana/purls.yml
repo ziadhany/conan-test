@@ -1,0 +1,5 @@
+- pkg:conan/hana@1.79.0
+- pkg:conan/hana@boost-1.78.0
+- pkg:conan/hana@boost-1.74.0
+- pkg:conan/hana@1.6.0
+- pkg:conan/hana@1.7.0

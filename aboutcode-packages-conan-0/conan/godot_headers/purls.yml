@@ -1,0 +1,9 @@
+- pkg:conan/godot_headers@3.5.3
+- pkg:conan/godot_headers@3.5.2
+- pkg:conan/godot_headers@3.5.1
+- pkg:conan/godot_headers@3.4.4
+- pkg:conan/godot_headers@3.4
+- pkg:conan/godot_headers@3.3.4
+- pkg:conan/godot_headers@3.3.2
+- pkg:conan/godot_headers@3.2.3
+- pkg:conan/godot_headers@cci.3.2-20200130

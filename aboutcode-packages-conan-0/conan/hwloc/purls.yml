@@ -1,0 +1,3 @@
+- pkg:conan/hwloc@2.11.1
+- pkg:conan/hwloc@2.10.0
+- pkg:conan/hwloc@2.9.3

@@ -1,0 +1,6 @@
+- pkg:conan/metal-cpp@15.2
+- pkg:conan/metal-cpp@15
+- pkg:conan/metal-cpp@14.2
+- pkg:conan/metal-cpp@14
+- pkg:conan/metal-cpp@13.3
+- pkg:conan/metal-cpp@13

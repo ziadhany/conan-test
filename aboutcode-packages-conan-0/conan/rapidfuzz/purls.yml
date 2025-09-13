@@ -1,0 +1,9 @@
+- pkg:conan/rapidfuzz@3.1.1
+- pkg:conan/rapidfuzz@3.0.4
+- pkg:conan/rapidfuzz@3.0.2
+- pkg:conan/rapidfuzz@3.0.0
+- pkg:conan/rapidfuzz@2.2.3
+- pkg:conan/rapidfuzz@2.2.0
+- pkg:conan/rapidfuzz@2.1.1
+- pkg:conan/rapidfuzz@2.0.0
+- pkg:conan/rapidfuzz@1.10.4

@@ -1,0 +1,6 @@
+- pkg:conan/hidapi@0.14.0
+- pkg:conan/hidapi@0.13.1
+- pkg:conan/hidapi@0.12.0
+- pkg:conan/hidapi@0.11.2
+- pkg:conan/hidapi@0.11.0
+- pkg:conan/hidapi@0.10.1

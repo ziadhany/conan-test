@@ -1,0 +1,4 @@
+- pkg:conan/gcc@15.1.0
+- pkg:conan/gcc@12.2.0
+- pkg:conan/gcc@11.3.0
+- pkg:conan/gcc@10.2.0

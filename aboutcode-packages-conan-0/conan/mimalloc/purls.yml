@@ -1,0 +1,8 @@
+- pkg:conan/mimalloc@2.1.9
+- pkg:conan/mimalloc@2.1.7
+- pkg:conan/mimalloc@2.1.2
+- pkg:conan/mimalloc@2.0.9
+- pkg:conan/mimalloc@1.8.7
+- pkg:conan/mimalloc@1.8.2
+- pkg:conan/mimalloc@1.7.9
+- pkg:conan/mimalloc@1.7.6

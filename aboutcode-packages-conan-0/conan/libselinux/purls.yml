@@ -1,0 +1,7 @@
+- pkg:conan/libselinux@3.6
+- pkg:conan/libselinux@3.5
+- pkg:conan/libselinux@3.3
+- pkg:conan/libselinux@3.2
+- pkg:conan/libselinux@3.1
+- pkg:conan/libselinux@3.0
+- pkg:conan/libselinux@2.9

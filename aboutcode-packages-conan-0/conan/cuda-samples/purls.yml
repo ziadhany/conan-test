@@ -1,0 +1,3 @@
+- pkg:conan/cuda-samples@12.2
+- pkg:conan/cuda-samples@11.8
+- pkg:conan/cuda-samples@10.2

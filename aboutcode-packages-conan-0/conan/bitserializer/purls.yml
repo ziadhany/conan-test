@@ -1,0 +1,5 @@
+- pkg:conan/bitserializer@0.80
+- pkg:conan/bitserializer@0.75
+- pkg:conan/bitserializer@0.70
+- pkg:conan/bitserializer@0.65
+- pkg:conan/bitserializer@0.50

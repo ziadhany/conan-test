@@ -1,0 +1,5 @@
+- pkg:conan/libmysqlclient@8.1.0
+- pkg:conan/libmysqlclient@8.0.34
+- pkg:conan/libmysqlclient@8.0.31
+- pkg:conan/libmysqlclient@8.0.30
+- pkg:conan/libmysqlclient@8.0.25

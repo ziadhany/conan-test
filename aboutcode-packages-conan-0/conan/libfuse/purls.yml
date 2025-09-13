@@ -1,0 +1,3 @@
+- pkg:conan/libfuse@3.16.2
+- pkg:conan/libfuse@3.10.5
+- pkg:conan/libfuse@2.9.9

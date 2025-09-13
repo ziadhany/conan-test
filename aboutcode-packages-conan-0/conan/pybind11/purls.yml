@@ -1,0 +1,4 @@
+- pkg:conan/pybind11@3.0.1
+- pkg:conan/pybind11@2.13.6
+- pkg:conan/pybind11@2.10.4
+- pkg:conan/pybind11@2.10.1

@@ -1,0 +1,6 @@
+- pkg:conan/xnnpack@cci.20240229
+- pkg:conan/xnnpack@cci.20231026
+- pkg:conan/xnnpack@cci.20230715
+- pkg:conan/xnnpack@cci.20220801
+- pkg:conan/xnnpack@cci.20220621
+- pkg:conan/xnnpack@cci.20211210

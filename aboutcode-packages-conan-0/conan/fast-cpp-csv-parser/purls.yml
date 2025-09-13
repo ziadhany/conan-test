@@ -1,0 +1,4 @@
+- pkg:conan/fast-cpp-csv-parser@cci.20240102
+- pkg:conan/fast-cpp-csv-parser@cci.20211104
+- pkg:conan/fast-cpp-csv-parser@cci.20200830
+- pkg:conan/fast-cpp-csv-parser@20191004

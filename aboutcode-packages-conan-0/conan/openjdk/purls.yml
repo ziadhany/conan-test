@@ -1,0 +1,4 @@
+- pkg:conan/openjdk@21.0.2
+- pkg:conan/openjdk@21.0.1
+- pkg:conan/openjdk@19.0.2
+- pkg:conan/openjdk@16.0.1

@@ -1,0 +1,5 @@
+- pkg:conan/dlib@19.24.2
+- pkg:conan/dlib@19.24
+- pkg:conan/dlib@19.23
+- pkg:conan/dlib@19.21
+- pkg:conan/dlib@19.19

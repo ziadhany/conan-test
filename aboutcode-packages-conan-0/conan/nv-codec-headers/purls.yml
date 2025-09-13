@@ -1,0 +1,4 @@
+- pkg:conan/nv-codec-headers@12.1.14.0
+- pkg:conan/nv-codec-headers@12.0.16.0
+- pkg:conan/nv-codec-headers@11.1.5.1
+- pkg:conan/nv-codec-headers@9.1.23.2

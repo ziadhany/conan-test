@@ -1,0 +1,4 @@
+- pkg:conan/dbus@1.15.8
+- pkg:conan/dbus@1.15.6
+- pkg:conan/dbus@1.15.2
+- pkg:conan/dbus@1.15.0

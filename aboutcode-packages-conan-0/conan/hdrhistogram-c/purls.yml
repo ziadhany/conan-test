@@ -1,0 +1,4 @@
+- pkg:conan/hdrhistogram-c@0.11.8
+- pkg:conan/hdrhistogram-c@0.11.6
+- pkg:conan/hdrhistogram-c@0.11.1
+- pkg:conan/hdrhistogram-c@0.11.0

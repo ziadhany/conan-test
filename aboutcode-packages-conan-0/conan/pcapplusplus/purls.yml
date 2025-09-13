@@ -1,0 +1,7 @@
+- pkg:conan/pcapplusplus@21.05
+- pkg:conan/pcapplusplus@21.11
+- pkg:conan/pcapplusplus@22.05
+- pkg:conan/pcapplusplus@22.11
+- pkg:conan/pcapplusplus@23.09
+- pkg:conan/pcapplusplus@24.09
+- pkg:conan/pcapplusplus@25.05

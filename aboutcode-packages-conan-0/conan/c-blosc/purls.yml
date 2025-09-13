@@ -1,0 +1,10 @@
+- pkg:conan/c-blosc@1.21.5
+- pkg:conan/c-blosc@1.21.4
+- pkg:conan/c-blosc@1.21.3
+- pkg:conan/c-blosc@1.21.1
+- pkg:conan/c-blosc@1.21.0
+- pkg:conan/c-blosc@1.20.1
+- pkg:conan/c-blosc@1.20.0
+- pkg:conan/c-blosc@1.19.0
+- pkg:conan/c-blosc@1.18.1
+- pkg:conan/c-blosc@1.17.1

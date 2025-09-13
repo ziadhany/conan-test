@@ -1,0 +1,13 @@
+- pkg:conan/flatbuffers@24.12.23
+- pkg:conan/flatbuffers@24.3.25
+- pkg:conan/flatbuffers@24.3.7
+- pkg:conan/flatbuffers@23.5.26
+- pkg:conan/flatbuffers@23.3.3
+- pkg:conan/flatbuffers@23.1.21
+- pkg:conan/flatbuffers@22.12.06
+- pkg:conan/flatbuffers@22.11.23
+- pkg:conan/flatbuffers@22.10.26
+- pkg:conan/flatbuffers@22.9.29
+- pkg:conan/flatbuffers@2.0.8
+- pkg:conan/flatbuffers@2.0.5
+- pkg:conan/flatbuffers@1.12.0

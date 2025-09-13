@@ -1,0 +1,5 @@
+- pkg:conan/sentry-crashpad@0.6.5
+- pkg:conan/sentry-crashpad@0.6.4
+- pkg:conan/sentry-crashpad@0.6.3
+- pkg:conan/sentry-crashpad@0.5.4
+- pkg:conan/sentry-crashpad@0.4.18

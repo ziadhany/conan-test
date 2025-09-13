@@ -1,0 +1,5 @@
+- pkg:conan/amqp-cpp@4.3.27
+- pkg:conan/amqp-cpp@4.3.26
+- pkg:conan/amqp-cpp@4.3.24
+- pkg:conan/amqp-cpp@4.2.1
+- pkg:conan/amqp-cpp@4.1.7

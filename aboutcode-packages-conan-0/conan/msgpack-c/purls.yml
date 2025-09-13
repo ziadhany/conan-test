@@ -1,0 +1,5 @@
+- pkg:conan/msgpack-c@6.1.0
+- pkg:conan/msgpack-c@6.0.0
+- pkg:conan/msgpack-c@5.0.0
+- pkg:conan/msgpack-c@4.0.0
+- pkg:conan/msgpack-c@3.3.0

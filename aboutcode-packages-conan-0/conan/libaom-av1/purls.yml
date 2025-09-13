@@ -1,0 +1,5 @@
+- pkg:conan/libaom-av1@3.8.0
+- pkg:conan/libaom-av1@3.6.1
+- pkg:conan/libaom-av1@3.5.0
+- pkg:conan/libaom-av1@3.4.0
+- pkg:conan/libaom-av1@2.0.1

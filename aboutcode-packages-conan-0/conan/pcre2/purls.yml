@@ -1,0 +1,9 @@
+- pkg:conan/pcre2@10.44
+- pkg:conan/pcre2@10.43
+- pkg:conan/pcre2@10.42
+- pkg:conan/pcre2@10.40
+- pkg:conan/pcre2@10.39
+- pkg:conan/pcre2@10.37
+- pkg:conan/pcre2@10.36
+- pkg:conan/pcre2@10.35
+- pkg:conan/pcre2@10.33

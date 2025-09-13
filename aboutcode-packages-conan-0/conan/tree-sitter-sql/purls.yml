@@ -1,0 +1,2 @@
+- pkg:conan/tree-sitter-sql@0.3.7
+- pkg:conan/tree-sitter-sql@0.3.5

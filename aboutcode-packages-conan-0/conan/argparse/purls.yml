@@ -1,0 +1,10 @@
+- pkg:conan/argparse@3.2
+- pkg:conan/argparse@3.1
+- pkg:conan/argparse@3.0
+- pkg:conan/argparse@2.9
+- pkg:conan/argparse@2.6
+- pkg:conan/argparse@2.5
+- pkg:conan/argparse@2.4
+- pkg:conan/argparse@2.3
+- pkg:conan/argparse@2.2
+- pkg:conan/argparse@2.1

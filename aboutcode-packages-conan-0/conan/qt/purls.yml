@@ -1,0 +1,5 @@
+- pkg:conan/qt@6.8.3
+- pkg:conan/qt@6.7.3
+- pkg:conan/qt@6.6.3
+- pkg:conan/qt@6.5.3
+- pkg:conan/qt@5.15.16

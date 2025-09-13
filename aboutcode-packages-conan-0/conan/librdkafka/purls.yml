@@ -1,0 +1,11 @@
+- pkg:conan/librdkafka@2.11.1
+- pkg:conan/librdkafka@2.8.0
+- pkg:conan/librdkafka@2.6.1
+- pkg:conan/librdkafka@2.6.0
+- pkg:conan/librdkafka@2.5.3
+- pkg:conan/librdkafka@2.5.0
+- pkg:conan/librdkafka@2.4.0
+- pkg:conan/librdkafka@2.3.0
+- pkg:conan/librdkafka@2.2.0
+- pkg:conan/librdkafka@2.0.2
+- pkg:conan/librdkafka@1.9.2

@@ -1,0 +1,10 @@
+- pkg:conan/spdlog@1.15.3
+- pkg:conan/spdlog@1.14.1
+- pkg:conan/spdlog@1.14.0
+- pkg:conan/spdlog@1.13.0
+- pkg:conan/spdlog@1.12.0
+- pkg:conan/spdlog@1.11.0
+- pkg:conan/spdlog@1.10.0
+- pkg:conan/spdlog@1.9.2
+- pkg:conan/spdlog@1.9.1
+- pkg:conan/spdlog@1.8.5

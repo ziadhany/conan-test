@@ -1,0 +1,5 @@
+- pkg:conan/stc@4.2
+- pkg:conan/stc@4.1.1
+- pkg:conan/stc@3.9
+- pkg:conan/stc@3.5.1
+- pkg:conan/stc@1.0.0-rc1

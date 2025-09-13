@@ -1,0 +1,5 @@
+- pkg:conan/platform.hashing@0.5.6
+- pkg:conan/platform.hashing@0.5.5
+- pkg:conan/platform.hashing@0.4.0
+- pkg:conan/platform.hashing@0.3.0
+- pkg:conan/platform.hashing@0.2.0

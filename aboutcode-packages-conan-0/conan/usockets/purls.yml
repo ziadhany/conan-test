@@ -1,0 +1,10 @@
+- pkg:conan/usockets@0.8.8
+- pkg:conan/usockets@0.8.7
+- pkg:conan/usockets@0.8.6
+- pkg:conan/usockets@0.8.5
+- pkg:conan/usockets@0.8.3
+- pkg:conan/usockets@0.8.2
+- pkg:conan/usockets@0.8.1
+- pkg:conan/usockets@0.7.1
+- pkg:conan/usockets@0.6.0
+- pkg:conan/usockets@0.4.0

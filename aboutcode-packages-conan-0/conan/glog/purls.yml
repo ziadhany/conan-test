@@ -1,0 +1,3 @@
+- pkg:conan/glog@0.7.1
+- pkg:conan/glog@0.7.0
+- pkg:conan/glog@0.6.0

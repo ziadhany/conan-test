@@ -1,0 +1,4 @@
+- pkg:conan/caf@1.0.2
+- pkg:conan/caf@1.0.0
+- pkg:conan/caf@0.19.4
+- pkg:conan/caf@0.18.6

@@ -1,0 +1,4 @@
+- pkg:conan/pupnp@1.12.1
+- pkg:conan/pupnp@1.14.2
+- pkg:conan/pupnp@1.14.12
+- pkg:conan/pupnp@1.14.18

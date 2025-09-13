@@ -1,0 +1,9 @@
+- pkg:conan/perfetto@50.1
+- pkg:conan/perfetto@48.1
+- pkg:conan/perfetto@47.0
+- pkg:conan/perfetto@45.0
+- pkg:conan/perfetto@44.0
+- pkg:conan/perfetto@43.1
+- pkg:conan/perfetto@42.0
+- pkg:conan/perfetto@41.0
+- pkg:conan/perfetto@40.0

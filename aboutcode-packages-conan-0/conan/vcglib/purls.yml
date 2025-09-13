@@ -1,0 +1,3 @@
+- pkg:conan/vcglib@2023.12
+- pkg:conan/vcglib@2022.02
+- pkg:conan/vcglib@2020.12

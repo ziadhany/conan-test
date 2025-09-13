@@ -1,0 +1,8 @@
+- pkg:conan/symengine@0.8.1
+- pkg:conan/symengine@0.9.0
+- pkg:conan/symengine@0.10.1
+- pkg:conan/symengine@0.11.1
+- pkg:conan/symengine@0.11.2
+- pkg:conan/symengine@0.12.0
+- pkg:conan/symengine@0.13.0
+- pkg:conan/symengine@0.14.0

@@ -1,0 +1,5 @@
+- pkg:conan/cpu_features@0.10.1
+- pkg:conan/cpu_features@0.9.0
+- pkg:conan/cpu_features@0.8.0
+- pkg:conan/cpu_features@0.7.0
+- pkg:conan/cpu_features@0.6.0

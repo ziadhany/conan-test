@@ -1,0 +1,4 @@
+- pkg:conan/libsigcpp@3.6.0
+- pkg:conan/libsigcpp@3.0.7
+- pkg:conan/libsigcpp@3.0.0
+- pkg:conan/libsigcpp@2.10.8

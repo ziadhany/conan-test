@@ -1,0 +1,8 @@
+- pkg:conan/wiringpi@3.10
+- pkg:conan/wiringpi@3.8
+- pkg:conan/wiringpi@3.6
+- pkg:conan/wiringpi@3.4
+- pkg:conan/wiringpi@3.2
+- pkg:conan/wiringpi@2.61-1
+- pkg:conan/wiringpi@cci.20210727
+- pkg:conan/wiringpi@2.50

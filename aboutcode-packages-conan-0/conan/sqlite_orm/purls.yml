@@ -1,0 +1,8 @@
+- pkg:conan/sqlite_orm@1.9.1
+- pkg:conan/sqlite_orm@1.9
+- pkg:conan/sqlite_orm@1.8.2
+- pkg:conan/sqlite_orm@1.8.1
+- pkg:conan/sqlite_orm@1.8
+- pkg:conan/sqlite_orm@1.7.1
+- pkg:conan/sqlite_orm@1.7
+- pkg:conan/sqlite_orm@1.6

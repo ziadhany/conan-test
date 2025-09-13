@@ -1,0 +1,6 @@
+- pkg:conan/libzippp@7.1-1.10.1
+- pkg:conan/libzippp@7.0-1.10.1
+- pkg:conan/libzippp@6.1-1.9.2
+- pkg:conan/libzippp@6.0-1.9.2
+- pkg:conan/libzippp@5.0-1.8.0
+- pkg:conan/libzippp@4.0

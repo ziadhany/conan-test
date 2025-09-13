@@ -1,0 +1,3 @@
+- pkg:conan/opencv@4.12.0
+- pkg:conan/opencv@3.4.20
+- pkg:conan/opencv@2.4.13.7

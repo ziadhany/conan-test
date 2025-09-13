@@ -1,0 +1,9 @@
+- pkg:conan/onnx@1.18.0
+- pkg:conan/onnx@1.17.0
+- pkg:conan/onnx@1.16.2
+- pkg:conan/onnx@1.16.1
+- pkg:conan/onnx@1.16.0
+- pkg:conan/onnx@1.15.0
+- pkg:conan/onnx@1.14.1
+- pkg:conan/onnx@1.14.0
+- pkg:conan/onnx@1.13.1

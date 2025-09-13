@@ -1,0 +1,5 @@
+- pkg:conan/7zip@25.00
+- pkg:conan/7zip@24.09
+- pkg:conan/7zip@23.01
+- pkg:conan/7zip@22.01
+- pkg:conan/7zip@19.00

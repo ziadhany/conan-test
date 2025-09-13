@@ -1,0 +1,2 @@
+- pkg:conan/influxdb-cpp@cci.20240102
+- pkg:conan/influxdb-cpp@cci.20201227
