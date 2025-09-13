@@ -1,0 +1,16 @@
+- pkg:conan/onetbb@2022.2.0
+- pkg:conan/onetbb@2022.0.0
+- pkg:conan/onetbb@2021.13.0
+- pkg:conan/onetbb@2021.12.0
+- pkg:conan/onetbb@2021.10.0
+- pkg:conan/onetbb@2021.9.0
+- pkg:conan/onetbb@2021.8.0
+- pkg:conan/onetbb@2021.7.0
+- pkg:conan/onetbb@2021.6.0
+- pkg:conan/onetbb@2021.3.0
+- pkg:conan/onetbb@2020.3.3
+- pkg:conan/onetbb@2020.3
+- pkg:conan/onetbb@2020.2
+- pkg:conan/onetbb@2020.1
+- pkg:conan/onetbb@2020.0
+- pkg:conan/onetbb@2019_u9

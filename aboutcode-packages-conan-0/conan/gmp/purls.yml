@@ -1,0 +1,3 @@
+- pkg:conan/gmp@6.3.0
+- pkg:conan/gmp@6.2.1
+- pkg:conan/gmp@6.1.2

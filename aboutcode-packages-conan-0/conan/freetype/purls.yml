@@ -1,0 +1,5 @@
+- pkg:conan/freetype@2.13.3
+- pkg:conan/freetype@2.13.2
+- pkg:conan/freetype@2.12.1
+- pkg:conan/freetype@2.11.1
+- pkg:conan/freetype@2.10.4

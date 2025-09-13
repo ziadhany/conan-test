@@ -1,0 +1,3 @@
+- pkg:conan/godot-cpp@3.5.1
+- pkg:conan/godot-cpp@3.3.4
+- pkg:conan/godot-cpp@cci.3.2-20200130

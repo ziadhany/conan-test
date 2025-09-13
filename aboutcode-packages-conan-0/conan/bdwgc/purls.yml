@@ -1,0 +1,6 @@
+- pkg:conan/bdwgc@8.0.4
+- pkg:conan/bdwgc@8.0.6
+- pkg:conan/bdwgc@8.2.2
+- pkg:conan/bdwgc@8.2.4
+- pkg:conan/bdwgc@8.2.6
+- pkg:conan/bdwgc@8.2.8

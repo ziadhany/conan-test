@@ -1,0 +1,12 @@
+- pkg:conan/b2@4.8.2
+- pkg:conan/b2@4.9.6
+- pkg:conan/b2@4.10.0
+- pkg:conan/b2@4.10.1
+- pkg:conan/b2@5.0.0
+- pkg:conan/b2@5.1.0
+- pkg:conan/b2@5.2.0
+- pkg:conan/b2@5.2.1
+- pkg:conan/b2@5.3.0
+- pkg:conan/b2@5.3.1
+- pkg:conan/b2@5.3.2
+- pkg:conan/b2@5.3.3

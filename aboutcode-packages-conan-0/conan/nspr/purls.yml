@@ -1,0 +1,6 @@
+- pkg:conan/nspr@4.35
+- pkg:conan/nspr@4.33
+- pkg:conan/nspr@4.32
+- pkg:conan/nspr@4.29
+- pkg:conan/nspr@4.27
+- pkg:conan/nspr@4.24

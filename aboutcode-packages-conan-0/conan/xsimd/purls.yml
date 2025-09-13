@@ -1,0 +1,15 @@
+- pkg:conan/xsimd@13.2.0
+- pkg:conan/xsimd@13.0.0
+- pkg:conan/xsimd@12.1.1
+- pkg:conan/xsimd@12.1.0
+- pkg:conan/xsimd@12.0.0
+- pkg:conan/xsimd@11.2.0
+- pkg:conan/xsimd@11.1.0
+- pkg:conan/xsimd@11.0.0
+- pkg:conan/xsimd@10.0.0
+- pkg:conan/xsimd@9.0.1
+- pkg:conan/xsimd@8.1.0
+- pkg:conan/xsimd@8.0.5
+- pkg:conan/xsimd@8.0.3
+- pkg:conan/xsimd@7.5.0
+- pkg:conan/xsimd@7.4.10

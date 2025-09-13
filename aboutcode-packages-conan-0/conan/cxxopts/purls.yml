@@ -1,0 +1,6 @@
+- pkg:conan/cxxopts@3.3.1
+- pkg:conan/cxxopts@3.2.0
+- pkg:conan/cxxopts@3.1.1
+- pkg:conan/cxxopts@3.0.0
+- pkg:conan/cxxopts@2.2.1
+- pkg:conan/cxxopts@2.2.0

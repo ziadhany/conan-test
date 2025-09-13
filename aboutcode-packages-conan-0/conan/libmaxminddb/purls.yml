@@ -1,0 +1,6 @@
+- pkg:conan/libmaxminddb@1.12.2
+- pkg:conan/libmaxminddb@1.10.0
+- pkg:conan/libmaxminddb@1.9.1
+- pkg:conan/libmaxminddb@1.8.0
+- pkg:conan/libmaxminddb@1.7.1
+- pkg:conan/libmaxminddb@1.6.0

@@ -1,0 +1,9 @@
+- pkg:conan/libcoro@0.15.0
+- pkg:conan/libcoro@0.14.1
+- pkg:conan/libcoro@0.12.1
+- pkg:conan/libcoro@0.12
+- pkg:conan/libcoro@0.11.1
+- pkg:conan/libcoro@0.10
+- pkg:conan/libcoro@0.9
+- pkg:conan/libcoro@0.8
+- pkg:conan/libcoro@0.7

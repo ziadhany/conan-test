@@ -1,0 +1,6 @@
+- pkg:conan/pugixml@1.15
+- pkg:conan/pugixml@1.14
+- pkg:conan/pugixml@1.13
+- pkg:conan/pugixml@1.12.1
+- pkg:conan/pugixml@1.11
+- pkg:conan/pugixml@1.10

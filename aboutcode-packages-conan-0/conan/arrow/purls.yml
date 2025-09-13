@@ -1,0 +1,9 @@
+- pkg:conan/arrow@21.0.0
+- pkg:conan/arrow@20.0.0
+- pkg:conan/arrow@19.0.1
+- pkg:conan/arrow@18.1.0
+- pkg:conan/arrow@18.0.0
+- pkg:conan/arrow@17.0.0
+- pkg:conan/arrow@16.1.0
+- pkg:conan/arrow@15.0.0
+- pkg:conan/arrow@14.0.2

@@ -1,0 +1,5 @@
+- pkg:conan/whisper-cpp@1.7.5
+- pkg:conan/whisper-cpp@1.7.4
+- pkg:conan/whisper-cpp@1.7.2
+- pkg:conan/whisper-cpp@1.6.2
+- pkg:conan/whisper-cpp@1.5.2

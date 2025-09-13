@@ -1,0 +1,3 @@
+- pkg:conan/opentelemetry-proto@1.7.0
+- pkg:conan/opentelemetry-proto@1.4.0
+- pkg:conan/opentelemetry-proto@1.3.2

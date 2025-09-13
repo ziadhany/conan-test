@@ -1,0 +1,5 @@
+- pkg:conan/armadillo@10.7.0
+- pkg:conan/armadillo@10.7.3
+- pkg:conan/armadillo@11.4.3
+- pkg:conan/armadillo@12.2.0
+- pkg:conan/armadillo@12.6.4

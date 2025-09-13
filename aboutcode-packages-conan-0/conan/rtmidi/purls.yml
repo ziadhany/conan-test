@@ -1,0 +1,3 @@
+- pkg:conan/rtmidi@6.0.0
+- pkg:conan/rtmidi@5.0.0
+- pkg:conan/rtmidi@4.0.0

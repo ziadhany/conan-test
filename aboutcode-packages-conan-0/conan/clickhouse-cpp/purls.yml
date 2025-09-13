@@ -1,0 +1,3 @@
+- pkg:conan/clickhouse-cpp@2.5.1
+- pkg:conan/clickhouse-cpp@2.5.0
+- pkg:conan/clickhouse-cpp@2.4.0

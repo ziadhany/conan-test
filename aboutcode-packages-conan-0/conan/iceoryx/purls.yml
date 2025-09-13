@@ -1,0 +1,4 @@
+- pkg:conan/iceoryx@2.0.6
+- pkg:conan/iceoryx@2.0.5
+- pkg:conan/iceoryx@2.0.3
+- pkg:conan/iceoryx@1.0.3

@@ -1,0 +1,14 @@
+- pkg:conan/at-spi2-core@2.38.0
+- pkg:conan/at-spi2-core@2.39.1
+- pkg:conan/at-spi2-core@2.40.3
+- pkg:conan/at-spi2-core@2.42.0
+- pkg:conan/at-spi2-core@2.44.0
+- pkg:conan/at-spi2-core@2.44.1
+- pkg:conan/at-spi2-core@2.46.0
+- pkg:conan/at-spi2-core@2.47.1
+- pkg:conan/at-spi2-core@2.48.0
+- pkg:conan/at-spi2-core@2.48.3
+- pkg:conan/at-spi2-core@2.49.1
+- pkg:conan/at-spi2-core@2.50.0
+- pkg:conan/at-spi2-core@2.51.0
+- pkg:conan/at-spi2-core@2.53.1

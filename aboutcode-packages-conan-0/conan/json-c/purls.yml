@@ -1,0 +1,5 @@
+- pkg:conan/json-c@0.18
+- pkg:conan/json-c@0.17
+- pkg:conan/json-c@0.16
+- pkg:conan/json-c@0.15
+- pkg:conan/json-c@0.14

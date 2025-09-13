@@ -1,0 +1,8 @@
+- pkg:conan/wasmedge@0.14.1
+- pkg:conan/wasmedge@0.14.0
+- pkg:conan/wasmedge@0.13.5
+- pkg:conan/wasmedge@0.11.2
+- pkg:conan/wasmedge@0.11.1
+- pkg:conan/wasmedge@0.10.0
+- pkg:conan/wasmedge@0.9.1
+- pkg:conan/wasmedge@0.9.0

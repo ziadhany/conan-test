@@ -1,0 +1,4 @@
+- pkg:conan/xxhash@0.8.3
+- pkg:conan/xxhash@0.8.2
+- pkg:conan/xxhash@0.8.1
+- pkg:conan/xxhash@0.8.0

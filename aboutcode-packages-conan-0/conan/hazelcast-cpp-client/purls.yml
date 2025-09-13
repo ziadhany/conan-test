@@ -1,0 +1,4 @@
+- pkg:conan/hazelcast-cpp-client@5.3.0
+- pkg:conan/hazelcast-cpp-client@5.2.0
+- pkg:conan/hazelcast-cpp-client@5.1.0
+- pkg:conan/hazelcast-cpp-client@4.2.0

@@ -1,0 +1,4 @@
+- pkg:conan/ceres-solver@2.2.0
+- pkg:conan/ceres-solver@2.1.0
+- pkg:conan/ceres-solver@2.0.0
+- pkg:conan/ceres-solver@1.14.0

@@ -1,0 +1,5 @@
+- pkg:conan/sqlpp11@0.64
+- pkg:conan/sqlpp11@0.63
+- pkg:conan/sqlpp11@0.62
+- pkg:conan/sqlpp11@0.61
+- pkg:conan/sqlpp11@0.60

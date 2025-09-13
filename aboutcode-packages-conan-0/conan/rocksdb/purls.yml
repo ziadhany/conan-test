@@ -1,0 +1,7 @@
+- pkg:conan/rocksdb@10.0.1
+- pkg:conan/rocksdb@9.10.0
+- pkg:conan/rocksdb@9.7.4
+- pkg:conan/rocksdb@9.5.2
+- pkg:conan/rocksdb@9.4.0
+- pkg:conan/rocksdb@8.8.1
+- pkg:conan/rocksdb@6.29.5

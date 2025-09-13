@@ -1,0 +1,13 @@
+- pkg:conan/libpqxx@7.10.1
+- pkg:conan/libpqxx@7.10.0
+- pkg:conan/libpqxx@7.9.2
+- pkg:conan/libpqxx@7.9.1
+- pkg:conan/libpqxx@7.9.0
+- pkg:conan/libpqxx@7.8.1
+- pkg:conan/libpqxx@7.8.0
+- pkg:conan/libpqxx@7.7.5
+- pkg:conan/libpqxx@7.6.1
+- pkg:conan/libpqxx@7.5.3
+- pkg:conan/libpqxx@7.4.2
+- pkg:conan/libpqxx@7.3.2
+- pkg:conan/libpqxx@6.4.8

@@ -1,0 +1,9 @@
+- pkg:conan/libqasm@1.2.1
+- pkg:conan/libqasm@1.2.0
+- pkg:conan/libqasm@1.1.0
+- pkg:conan/libqasm@1.0.0
+- pkg:conan/libqasm@0.6.9
+- pkg:conan/libqasm@0.6.8
+- pkg:conan/libqasm@0.6.7
+- pkg:conan/libqasm@0.6.6
+- pkg:conan/libqasm@0.6.5

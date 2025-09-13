@@ -1,0 +1,5 @@
+- pkg:conan/libtorrent@2.0.10
+- pkg:conan/libtorrent@2.0.9
+- pkg:conan/libtorrent@2.0.8
+- pkg:conan/libtorrent@2.0.1
+- pkg:conan/libtorrent@1.2.3

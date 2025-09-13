@@ -1,0 +1,4 @@
+- pkg:conan/pulseaudio@17.0
+- pkg:conan/pulseaudio@14.2
+- pkg:conan/pulseaudio@14.0
+- pkg:conan/pulseaudio@13.0

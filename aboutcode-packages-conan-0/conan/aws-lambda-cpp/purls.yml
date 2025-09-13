@@ -1,0 +1,3 @@
+- pkg:conan/aws-lambda-cpp@0.2.10
+- pkg:conan/aws-lambda-cpp@0.2.9
+- pkg:conan/aws-lambda-cpp@0.2.8

@@ -1,0 +1,4 @@
+- pkg:conan/dlpack@1.0
+- pkg:conan/dlpack@0.8
+- pkg:conan/dlpack@0.6
+- pkg:conan/dlpack@0.4

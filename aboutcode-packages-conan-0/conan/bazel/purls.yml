@@ -1,0 +1,7 @@
+- pkg:conan/bazel@7.2.1
+- pkg:conan/bazel@7.0.0
+- pkg:conan/bazel@6.5.0
+- pkg:conan/bazel@6.2.0
+- pkg:conan/bazel@5.4.1
+- pkg:conan/bazel@4.2.4
+- pkg:conan/bazel@4.0.0

@@ -1,0 +1,5 @@
+- pkg:conan/geographiclib@2.4
+- pkg:conan/geographiclib@2.3
+- pkg:conan/geographiclib@1.52
+- pkg:conan/geographiclib@1.51
+- pkg:conan/geographiclib@1.50.2

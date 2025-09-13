@@ -1,0 +1,5 @@
+- pkg:conan/verilator@4.034
+- pkg:conan/verilator@4.038
+- pkg:conan/verilator@4.200
+- pkg:conan/verilator@4.224
+- pkg:conan/verilator@5.004

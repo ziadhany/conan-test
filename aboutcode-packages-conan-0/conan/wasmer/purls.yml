@@ -1,0 +1,15 @@
+- pkg:conan/wasmer@5.0.0
+- pkg:conan/wasmer@4.4.0
+- pkg:conan/wasmer@4.3.3
+- pkg:conan/wasmer@4.3.0
+- pkg:conan/wasmer@4.2.7
+- pkg:conan/wasmer@4.2.5
+- pkg:conan/wasmer@4.2.0
+- pkg:conan/wasmer@4.1.1
+- pkg:conan/wasmer@4.0.0
+- pkg:conan/wasmer@3.2.1
+- pkg:conan/wasmer@3.1.0
+- pkg:conan/wasmer@3.0.2
+- pkg:conan/wasmer@2.3.0
+- pkg:conan/wasmer@2.2.0
+- pkg:conan/wasmer@2.1.1

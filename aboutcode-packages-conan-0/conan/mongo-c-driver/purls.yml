@@ -1,0 +1,8 @@
+- pkg:conan/mongo-c-driver@1.30.3
+- pkg:conan/mongo-c-driver@1.29.2
+- pkg:conan/mongo-c-driver@1.29.1
+- pkg:conan/mongo-c-driver@1.29.0
+- pkg:conan/mongo-c-driver@1.28.1
+- pkg:conan/mongo-c-driver@1.27.6
+- pkg:conan/mongo-c-driver@1.26.2
+- pkg:conan/mongo-c-driver@1.24.3

@@ -1,0 +1,5 @@
+- pkg:conan/box2d@3.1.0
+- pkg:conan/box2d@3.0.0
+- pkg:conan/box2d@2.4.2
+- pkg:conan/box2d@2.4.1
+- pkg:conan/box2d@2.4.0

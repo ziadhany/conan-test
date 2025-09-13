@@ -1,0 +1,4 @@
+- pkg:conan/openmesh@11.0
+- pkg:conan/openmesh@10.0
+- pkg:conan/openmesh@9.0
+- pkg:conan/openmesh@8.1

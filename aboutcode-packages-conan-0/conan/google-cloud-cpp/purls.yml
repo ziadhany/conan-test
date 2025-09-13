@@ -1,0 +1,6 @@
+- pkg:conan/google-cloud-cpp@2.28.0
+- pkg:conan/google-cloud-cpp@2.19.0
+- pkg:conan/google-cloud-cpp@2.15.1
+- pkg:conan/google-cloud-cpp@1.40.1
+- pkg:conan/google-cloud-cpp@1.31.1
+- pkg:conan/google-cloud-cpp@1.30.1

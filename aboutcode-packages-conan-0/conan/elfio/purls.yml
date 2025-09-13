@@ -1,0 +1,5 @@
+- pkg:conan/elfio@3.12
+- pkg:conan/elfio@3.11
+- pkg:conan/elfio@3.10
+- pkg:conan/elfio@3.9
+- pkg:conan/elfio@3.8

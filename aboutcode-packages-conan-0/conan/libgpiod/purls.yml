@@ -1,0 +1,4 @@
+- pkg:conan/libgpiod@2.1
+- pkg:conan/libgpiod@2.0.1
+- pkg:conan/libgpiod@1.6.4
+- pkg:conan/libgpiod@1.6.3

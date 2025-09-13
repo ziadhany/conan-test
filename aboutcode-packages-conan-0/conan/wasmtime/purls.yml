@@ -1,0 +1,10 @@
+- pkg:conan/wasmtime@31.0.0
+- pkg:conan/wasmtime@21.0.0
+- pkg:conan/wasmtime@20.0.1
+- pkg:conan/wasmtime@19.0.2
+- pkg:conan/wasmtime@18.0.3
+- pkg:conan/wasmtime@16.0.0
+- pkg:conan/wasmtime@12.0.2
+- pkg:conan/wasmtime@9.0.1
+- pkg:conan/wasmtime@7.0.0
+- pkg:conan/wasmtime@6.0.1

@@ -1,0 +1,5 @@
+- pkg:conan/mpfr@4.2.2
+- pkg:conan/mpfr@4.2.1
+- pkg:conan/mpfr@4.2.0
+- pkg:conan/mpfr@4.1.0
+- pkg:conan/mpfr@4.0.2

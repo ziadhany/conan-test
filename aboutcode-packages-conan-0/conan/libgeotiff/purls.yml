@@ -1,0 +1,5 @@
+- pkg:conan/libgeotiff@1.7.4
+- pkg:conan/libgeotiff@1.7.1
+- pkg:conan/libgeotiff@1.7.0
+- pkg:conan/libgeotiff@1.6.0
+- pkg:conan/libgeotiff@1.5.1

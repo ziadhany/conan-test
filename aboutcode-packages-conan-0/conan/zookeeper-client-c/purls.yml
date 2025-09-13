@@ -1,0 +1,4 @@
+- pkg:conan/zookeeper-client-c@3.9.3
+- pkg:conan/zookeeper-client-c@3.9.1
+- pkg:conan/zookeeper-client-c@3.9.0
+- pkg:conan/zookeeper-client-c@3.8.1

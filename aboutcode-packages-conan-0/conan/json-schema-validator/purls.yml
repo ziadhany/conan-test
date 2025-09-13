@@ -1,0 +1,4 @@
+- pkg:conan/json-schema-validator@2.3.0
+- pkg:conan/json-schema-validator@2.2.0
+- pkg:conan/json-schema-validator@2.1.0
+- pkg:conan/json-schema-validator@2.0.0

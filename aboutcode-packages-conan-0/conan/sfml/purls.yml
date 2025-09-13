@@ -1,0 +1,4 @@
+- pkg:conan/sfml@2.6.2
+- pkg:conan/sfml@2.6.1
+- pkg:conan/sfml@2.6.0
+- pkg:conan/sfml@2.5.1

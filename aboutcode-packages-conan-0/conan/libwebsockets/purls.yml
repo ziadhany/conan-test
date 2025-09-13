@@ -1,0 +1,6 @@
+- pkg:conan/libwebsockets@4.3.5
+- pkg:conan/libwebsockets@4.3.3
+- pkg:conan/libwebsockets@4.3.2
+- pkg:conan/libwebsockets@4.3.0
+- pkg:conan/libwebsockets@4.2.1
+- pkg:conan/libwebsockets@4.2.0

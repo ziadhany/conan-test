@@ -1,0 +1,11 @@
+- pkg:conan/liburing@2.11
+- pkg:conan/liburing@2.8
+- pkg:conan/liburing@2.7
+- pkg:conan/liburing@2.6
+- pkg:conan/liburing@2.5
+- pkg:conan/liburing@2.4
+- pkg:conan/liburing@2.3
+- pkg:conan/liburing@2.2
+- pkg:conan/liburing@2.1
+- pkg:conan/liburing@2.0
+- pkg:conan/liburing@0.7

@@ -1,0 +1,4 @@
+- pkg:conan/jsonnet@0.20.0
+- pkg:conan/jsonnet@0.19.1
+- pkg:conan/jsonnet@0.18.0
+- pkg:conan/jsonnet@0.17.0

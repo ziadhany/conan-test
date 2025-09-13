@@ -1,0 +1,5 @@
+- pkg:conan/tbb@2020.3
+- pkg:conan/tbb@2020.2
+- pkg:conan/tbb@2020.1
+- pkg:conan/tbb@2020.0
+- pkg:conan/tbb@2019_u9

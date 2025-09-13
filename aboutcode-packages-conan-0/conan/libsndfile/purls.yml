@@ -1,0 +1,5 @@
+- pkg:conan/libsndfile@1.2.2
+- pkg:conan/libsndfile@1.2.0
+- pkg:conan/libsndfile@1.0.31
+- pkg:conan/libsndfile@1.0.30
+- pkg:conan/libsndfile@1.0.29

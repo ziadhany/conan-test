@@ -1,0 +1,4 @@
+- pkg:conan/openblas@0.3.30
+- pkg:conan/openblas@0.3.26
+- pkg:conan/openblas@0.3.25
+- pkg:conan/openblas@0.3.24

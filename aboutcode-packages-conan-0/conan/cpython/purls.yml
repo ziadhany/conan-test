@@ -1,0 +1,6 @@
+- pkg:conan/cpython@3.12.7
+- pkg:conan/cpython@3.12.2
+- pkg:conan/cpython@3.11.9
+- pkg:conan/cpython@3.10.14
+- pkg:conan/cpython@3.9.19
+- pkg:conan/cpython@3.8.19

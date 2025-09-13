@@ -1,0 +1,4 @@
+- pkg:conan/embree3@3.13.5
+- pkg:conan/embree3@3.13.3
+- pkg:conan/embree3@3.13.1
+- pkg:conan/embree3@3.12.0

@@ -1,0 +1,7 @@
+- pkg:conan/mingw-builds@15.1.0
+- pkg:conan/mingw-builds@14.2.0
+- pkg:conan/mingw-builds@13.2.0
+- pkg:conan/mingw-builds@12.2.0
+- pkg:conan/mingw-builds@12.1.0
+- pkg:conan/mingw-builds@11.2.0
+- pkg:conan/mingw-builds@8.1

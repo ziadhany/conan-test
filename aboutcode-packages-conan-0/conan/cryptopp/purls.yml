@@ -1,0 +1,5 @@
+- pkg:conan/cryptopp@8.9.0
+- pkg:conan/cryptopp@8.8.0
+- pkg:conan/cryptopp@8.7.0
+- pkg:conan/cryptopp@8.6.0
+- pkg:conan/cryptopp@8.5.0

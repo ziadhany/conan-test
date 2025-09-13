@@ -1,0 +1,4 @@
+- pkg:conan/libsodium@1.0.20
+- pkg:conan/libsodium@1.0.19
+- pkg:conan/libsodium@1.0.18
+- pkg:conan/libsodium@cci.20220430
